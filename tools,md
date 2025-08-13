@@ -1,0 +1,11 @@
+ping 📶 → Check if a host is reachable
+
+curl 🌐 → Test HTTP requests
+
+netstat 🔍 → View open ports
+
+traceroute 🧭 → Trace the path packets take
+
+telnet 📞 → Test connectivity to a port
+
+nmap 🔦 → Scan network ports
